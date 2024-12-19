@@ -1,10 +1,10 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 import annaLogo from '/logo-a.svg'
 import './App.css'
 import classes from "./components/main.module.css";
 
 function App() {
-  const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
 
   return (
     <>
